@@ -71,6 +71,7 @@ sacremoses==0.0.47
 six==1.16.0
 stack-data==0.2.0
 Stegano==0.9.7
+taming-transformers==0.0.1
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1

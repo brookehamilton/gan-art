@@ -8,7 +8,6 @@ brookehamilton@gmail.com
 
 Setup:  
 `git clone https://github.com/openai/CLIP`  
-`git clone https://github.com/CompVis/taming-transformers`  
 `apt install exempi` (or `brew install exempi`)  
 
 Also need java (I installed via Java website download)  
