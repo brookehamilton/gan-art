@@ -1,17 +1,17 @@
 # Download models
 # Set the ones you want to True
 
-imagenet_1024=False
-imagenet_16384=True
-gumbel_8192=False
-coco=False
-faceshq=False
-wikiart_1024=False
-wikiart_16384=False
-sflckr=False
-ade20k=False
-ffhq=False
-celebahq=False
+imagenet_1024=false
+imagenet_16384=true
+gumbel_8192=false
+coco=false
+faceshq=false
+wikiart_1024=false
+wikiart_16384=false
+sflckr=false
+ade20k=false
+ffhq=false
+celebahq=false
 
 cd models
 
